@@ -1,0 +1,37 @@
+// race-specific variables (must start with _)
+_empire                           | Klackon Empire, Insecton Empire, Termitton Empire, Arthropon Empire, Coleopteron Empire
+_race                             | Klackon, Insecton, Termitton, Arthropon, Coleopteron
+_race_plural                      | Klackons, Insectons, Termittons, Arthropon, Coleopteron
+_title                            | Emperor
+_nameTitle                        | Emperor
+
+GOVT_EMPIRE                       | %1 Empire
+
+//
+// All text below this point is copyright 2018-2020 Jeff Colucci
+// 
+// Licensed under the Creative Commons License, 
+// Attribution-NonCommercial-NoDerivatives 4.0 International (the "License");
+// you may not use this file except in compliance with the License.
+// You may obtain a copy of the License at
+// 
+//     https://creativecommons.org/licenses/by-nc-nd/4.0/
+//  
+// This license is legally binding. Please review this license before altering 
+// or distributing any material covered under this license.
+//
+
+// Advisor text
+MAIN_ADVISOR_TITLE                | %2
+MAIN_ADVISOR_BUTTON_OK            | Dismiss
+MAIN_ADVISOR_SCOUT                | At last our ships have reached completion. We must use our scouts to find new worlds for our colony vessel to land upon.
+MAIN_ADVISOR_TRANSPORT            | We've established ourselves on this new world and must send more from our home to expand upon it.
+MAIN_ADVISOR_DIPLOMACY            | New intelligent life! What strange life forms they are to communicate by noises and gestures. We must contemplate the diplomacy and intelligence information we know about them before making our next move.
+MAIN_ADVISOR_SHIP_ENGINE          | We continue to improve with this refinement of our spacecraft engines. We must re-visit our ship designs to integrate them into our fleet.
+MAIN_ADVISOR_RALLY_POINTS         | Why do they attack us? We don't understand. We must choose a rally point for our ships to go to defend ourselves while we try to understand why this has occurred.
+MAIN_ADVISOR_MISSILE_BASES        | We see now that not all life has learned the boon of cooperation. We must fortify our outer worlds with missile bases to keep our acquisitions safe.
+MAIN_ADVISOR_SHIP_WEAPON          | We continue to advance, and our new weapon technology will grant us more power as soon as we integrate them into our ship designs.
+MAIN_ADVISOR_COUNCIL              | Excitement! A meeting of many species will soon take place. What lifeforms will be gathered there? If we put ourselves in a better light among those we know, perhaps they'll ease our introduction to any new species.
+MAIN_ADVISOR_REBELLION            | What is this? We've lost control of %1. No matter, we must simply go there and show them that we are the ones in charge.
+MAIN_ADVISOR_RESIST_COUNCIL       | Impossible! That another was chosen to rule these simpering dolts while our wisdom remains ignored! But no matter: we will put an end to all of them immediately! 
+MAIN_ADVISOR_COUNCIL_RESISTED     | Why do these fools persist in being so disagreeable? The council is ours, the galaxy is ours, and now they will learn their place in our dominion! 
