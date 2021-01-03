@@ -10,4 +10,4 @@ MoO1-like RotP Mod is a mod that makes rotp more like moo1. It does several thin
  - Go to rotp.
  - Extract the downloaded zip file, go to moo1-like-rotp/.
  - Add all the folders inside moo1-like-rotp to the Remnants.jar archive.
- - Run the game and enjoy!
+ - Run the game, choose moo1 as the language and enjoy!
