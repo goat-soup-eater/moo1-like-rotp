@@ -709,7 +709,7 @@ PLANETS_LIST_SHIELD               | Shield
 PLANETS_LIST_PRODUCTION           | Prod
 PLANETS_LIST_CAPACITY             | Capacity
 PLANETS_LIST_RESERVE              | Reserve
-PLANETS_LIST_SHIPYARD             | Shipyard
+PLANETS_LIST_SHIPYARD             | Space Dock
 PLANETS_LIST_NOTES                | Notes
 PLANETS_LIST_TURNS                | Turns
 PLANETS_LIST_TRANSPORTS           | Transports
