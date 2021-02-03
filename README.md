@@ -11,4 +11,4 @@ MoO1-like RotP Mod is a mod that makes rotp more like moo1. It does several thin
  - Extract the downloaded zip file, go to moo1-like-rotp/.
  - Add all the folders inside moo1-like-rotp to the Remnants.jar archive.
  - Go to data/lang/en/races and delete the 10 dialogue files (Alkari.dialogue.txt; Bulrathi.dialogue.txt, etc.)
- - Run the game, choose moo1 as the language and enjoy!
+ - Run the game, choose MoO1-Like as the language and enjoy!
