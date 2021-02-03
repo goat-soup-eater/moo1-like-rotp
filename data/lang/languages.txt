@@ -7,4 +7,4 @@ fr,     , Français   ,
 pl,     , Polski     ,
 ru,     , Русский    , 
 //uk,     , Українська , 
-  
+moo1    , MoO1-Like  ,  
